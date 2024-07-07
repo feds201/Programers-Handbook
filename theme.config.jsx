@@ -6,9 +6,9 @@ export default {
         <>
             <img style={{borderRadius: '50%', marginTope: '10px'}} src="https://i.imgur.com/5qow8cH.png" alt="CS-Club" width="30" height="auto"/>
             <span>&nbsp;</span>
-            {/*<span>&nbsp;</span>*/}
-            <img style={{borderRadius: '50%', marginTope: '10px'}} src="https://i.imgur.com/GmdZ72B.png" alt="FEDS201" width="30" height="30"/>
             <span>&nbsp;</span>
+            {/*<img style={{borderRadius: '50%', marginTope: '10px'}} src="https://i.imgur.com/GmdZ72B.png" alt="FEDS201" width="30" height="30"/>*/}
+            {/*<span>&nbsp;</span>*/}
             <text >Programmers Handbook</text>
         
         </>
